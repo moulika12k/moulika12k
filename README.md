@@ -1,4 +1,4 @@
-Hey there 👋 
+Hey there, 
 I’m Moulika  
 + 🔍 Exploring the world of Data  
 + 📊 Currently learning Python, SQL, Excel & Power BI  
