@@ -3,4 +3,4 @@
 + 🔍 Exploring the world of Data  
 + 📊 Excel, SQL & Power BI 
 + 🌱 Building projects to turn raw data into real insights  
-+ 📬 Reach me at: moulikak0112@gmail.com
++ 📬 Reach me at: moulikakolavasi@gmail.com
